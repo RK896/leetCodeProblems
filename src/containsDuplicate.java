@@ -12,7 +12,7 @@ public class containsDuplicate {
     }
 
         public static void main (String[]args){
-            int[] values = {0,2,2,0};
+            int[] values = {0,2,2,0};// can you add more test cases? 
             System.out.println(containsDuplicate(values));
     }
 }
